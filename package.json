@@ -1,15 +1,15 @@
 {
   "name": "generator-arch-karmatest",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "description": "karma单元测试环境",
   "repository": {
     "type": "git",
-    "url": "git@github.com:Alan110/generator-arch-karmaTest.git"
+    "url": "git@github.com:Alan110/generators-arch-karmatest.git"
   },
   "files": [
     "generators/app"
   ],
-  "homepage": "git@github.com:Alan110/generator-arch-karmaTest",
+  "homepage": "git@github.com:Alan110/generators-arch-karmatest.git",
   "keywords": [
     "yeoman-generator",
     "karmaTest"
